@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 1ca3f3ae45ba30529c7015f9c583b9ce54358d00
 # Registration_Dashboard
 
 
